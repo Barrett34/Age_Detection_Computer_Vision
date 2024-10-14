@@ -2,8 +2,8 @@
 The supermarket chain Good Seed would like to explore whether Data Science can help them adhere to alcohol laws by making sure they do not sell alcohol to people underage. We will build a model with the ImageDataGenerator and a GPU Platform to train the model. 
 
 ## Data Description
-`/datasets/faces/labels.csv`
-`/datasets/faces/final_files/`
+- `/datasets/faces/labels.csv`
+- `/datasets/faces/final_files/`
 
 ## Conclusion
 
